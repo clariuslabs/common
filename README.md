@@ -1,3 +1,5 @@
+![Icon](https://raw.github.com/clariuslabs/common/master/ClariusLabs.png)
+
 Clarius Labs Common
 ======
 
